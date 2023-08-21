@@ -1,4 +1,4 @@
-# Checkin
+# Checkin，小小修改测试一下
 
 GitHub Actions 实现 [GLaDOS][glados] 自动签到
 
